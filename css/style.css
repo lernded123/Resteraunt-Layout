@@ -67,3 +67,9 @@ img {
   padding-left: 20px;
   padding-right: 20px;
 }
+
+/* carousel */
+
+.carousel {
+  width: 100vw;
+}
