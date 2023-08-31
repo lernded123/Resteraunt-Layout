@@ -8,3 +8,10 @@ ul {
   flex-basis: 70%;
   font-size: 10px;
 }
+
+.header ul {
+  list-style-type: none;
+  padding: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
