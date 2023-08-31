@@ -26,8 +26,6 @@ img {
   } */
 
 .header {
-  display: flex;
-  justify-content: space-around;
   padding: 0;
   padding-top: 45px;
   padding-bottom: 45px;
@@ -39,6 +37,8 @@ img {
 }
 
 .navHeader {
+  display: flex;
+  justify-content: space-around;
   flex-basis: 100%;
   font-size: 18px;
   color: white;
@@ -49,7 +49,7 @@ img {
 
 .header a {
   text-decoration: none; /* Remove underlines */
-  color: black; /* Change link color */
+  color: white;
   font-weight: bold; /* Make the link text bold */
 }
 
