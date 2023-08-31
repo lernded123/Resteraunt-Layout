@@ -39,8 +39,10 @@ ul {
 .header ul {
   list-style-type: none;
   padding: 0;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /* //background-color: #898a03; */
+  background-color: #6c410a;
 }
 
 /*styling links */
@@ -53,9 +55,9 @@ ul {
 
 .header a:hover {
   text-decoration: underline; /* Add underlines on hover */
-  color: #ff5733; /* Change link color on hover */
 }
 
 .resterName {
   font-size: 20px;
+  text-decoration: none;
 }
