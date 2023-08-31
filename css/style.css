@@ -33,7 +33,7 @@ ul {
 
 ul {
   flex-basis: 100%;
-  font-size: 15px;
+  font-size: 18px;
   color: white;
 }
 
@@ -63,6 +63,8 @@ ul {
 }
 
 .resterName {
-  font-size: 20px;
+  font-size: 25px;
   text-decoration: none;
+  padding-left: 20px;
+  padding-right: 20px;
 }
