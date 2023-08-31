@@ -28,15 +28,6 @@ img {
 .header {
   display: flex;
   justify-content: space-around;
-}
-
-.navHeader {
-  flex-basis: 100%;
-  font-size: 18px;
-  color: white;
-}
-
-.header ul {
   list-style-type: none;
   padding: 0;
   padding-top: 45px;
@@ -47,6 +38,12 @@ img {
   padding-right: 20px;
   color: white;
   margin: auto;
+}
+
+.navHeader {
+  flex-basis: 100%;
+  font-size: 18px;
+  color: white;
 }
 
 /*styling links */
