@@ -28,11 +28,9 @@ img {
 .header {
   display: flex;
   justify-content: space-around;
-  list-style-type: none;
   padding: 0;
   padding-top: 45px;
   padding-bottom: 45px;
-  /* //background-color: #898a03; */
   background-color: #848b79;
   padding-left: 20px;
   padding-right: 20px;
@@ -44,6 +42,7 @@ img {
   flex-basis: 100%;
   font-size: 18px;
   color: white;
+  list-style-type: none;
 }
 
 /*styling links */
