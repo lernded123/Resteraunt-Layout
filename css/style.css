@@ -34,13 +34,14 @@ ul {
 ul {
   flex-basis: 100%;
   font-size: 15px;
+  color: white;
 }
 
 .header ul {
   list-style-type: none;
   padding: 0;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 50px;
   /* //background-color: #898a03; */
   background-color: #6c410a;
   padding-left: 20px;
