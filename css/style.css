@@ -25,13 +25,12 @@ img {
   main {
   } */
 
-nav,
-ul {
+.header {
   display: flex;
   justify-content: space-around;
 }
 
-ul {
+.navHeader {
   flex-basis: 100%;
   font-size: 18px;
   color: white;
