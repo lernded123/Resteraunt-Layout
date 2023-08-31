@@ -71,3 +71,17 @@ img {
   height: 100vh;
   position: relative;
 }
+
+.slide {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+}
+
+.slide > img {
+  display: block;
+}
+
+.slide[data-active] {
+  opacity: 1;
+}
