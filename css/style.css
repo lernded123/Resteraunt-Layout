@@ -23,3 +23,8 @@ ul {
   color: black; /* Change link color */
   font-weight: bold; /* Make the link text bold */
 }
+
+.header a:hover {
+  text-decoration: underline; /* Add underlines on hover */
+  color: #ff5733; /* Change link color on hover */
+}
