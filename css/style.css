@@ -55,3 +55,7 @@ ul {
   text-decoration: underline; /* Add underlines on hover */
   color: #ff5733; /* Change link color on hover */
 }
+
+.resterName {
+  font-size: 20px;
+}
