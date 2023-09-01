@@ -72,6 +72,12 @@ img {
   position: relative;
 }
 
+.carousel > ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
 .slide {
   position: absolute;
   inset: 0;
