@@ -108,4 +108,5 @@ img {
   cursor: pointer;
   border-radius: 0.25rem;
   padding: 0 0.5rem;
+  background-color: rgba(0, 0, 0, 0.1);
 }
