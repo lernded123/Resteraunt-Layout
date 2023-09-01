@@ -92,7 +92,10 @@ img {
 
 .carousel-button {
   position: absolute;
+  z-index: 2;
   background: none;
   border: none;
   font-size: 4rem;
+  top: 50%;
+  transform: translateY(-50%);
 }
