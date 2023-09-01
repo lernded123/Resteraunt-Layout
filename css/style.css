@@ -80,6 +80,7 @@ img {
 
 .slide > img {
   display: block;
+  width: 100%;
 }
 
 .slide[data-active] {
