@@ -89,3 +89,9 @@ img {
 .slide[data-active] {
   opacity: 1;
 }
+
+.carousel-button {
+  position: absolute;
+  background: none;
+  border: none;
+}
