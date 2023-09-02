@@ -120,3 +120,7 @@ img {
 .carousel-button:focus {
   outline: 1px solid black;
 }
+
+.carousel-button.prev {
+  left: 1rem;
+}
