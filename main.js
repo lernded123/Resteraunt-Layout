@@ -6,5 +6,7 @@ buttons.forEach((button) => {
     const slides = button
       .closest("[data-carousel]")
       .querySelector("[data-slides]");
+
+    const activeSlide = slides.querySelector("[data-active]");
   });
 });
