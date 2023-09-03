@@ -128,3 +128,9 @@ img {
 .carousel-button.next {
   right: 1rem;
 }
+
+/* Hours section */
+.secondSection {
+  display: flex;
+  justify-content: center;
+}
