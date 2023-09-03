@@ -8,5 +8,6 @@ buttons.forEach((button) => {
       .querySelector("[data-slides]");
 
     const activeSlide = slides.querySelector("[data-active]");
+    let newIndex = [...slides.children];
   });
 });
