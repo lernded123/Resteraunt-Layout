@@ -81,7 +81,7 @@ img {
 .slide {
   position: absolute;
   inset: 0;
-  opacity: 0;
+  /* opacity: 0; */
 }
 
 .slide > img {
